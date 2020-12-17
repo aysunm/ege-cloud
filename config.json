@@ -1,9 +1,9 @@
 {
     "database": {
-        "host": "<host>",
+        "host": "aysunpostgres2.postgres.database.azure.com",
         "dbname": "postgres",
-        "user": "<username>",
-        "password": "<password>",
+        "user": "MyUsername@AysunPostgres2",
+        "password": "MyPassword123*",
         "ssl": "require"
     }
 }
